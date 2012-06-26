@@ -74,19 +74,19 @@ WORLDSTORAGE="${MCPATH}/worldstorage"
 # Settings for overviewer command
 # ===============================
 
-# Where the Map is generated
+# Where the generated map data is outputted.
 OUTPUTMAP="/home/${USERNAME}/mcmap"
 
 # Path to Minecraft-Overviewer. If using an APT repository installed version, set to: "apt".
 OVPATH="/home/${USERNAME}/Minecraft-Overviewer"
 
-# Path for the config file of Overviewer
+# Path for the config file of Overviewer.
 OVCONFIGPATH="/home/${USERNAME}/Minecraft-Overviewer"
 
-# Name of Overviewer config file
+# Name of Overviewer config file.
 OVCONFIGNAME="config_over.py"
 
-# Path for backup worlds
+# Path for backup worlds.
 OVBACKUP="/home/${USERNAME}/mcbackup/overviewer"
 
 # Things to leave alone ;)
